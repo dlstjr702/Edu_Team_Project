@@ -1,3 +1,4 @@
+
 # Edu_Team_Project
 쌍용교육센터 첫번째 팀프로젝트
 
@@ -32,7 +33,7 @@ https://canva.link/kcp2tn2o91rofqc<br>
 
 
 <h2><클래스다이어그램></h2><br><br>
-
+<img width="2188" height="4315" alt="Tennis Game Scoring Model-2026-06-10-121435" src="https://github.com/user-attachments/assets/6fd4d70b-a1d8-4090-b40d-a447cf8cb86d" /><br>
 
 
 <h2><코드 구현></h2><br><br>
