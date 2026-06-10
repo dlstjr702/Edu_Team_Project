@@ -36,4 +36,5 @@ https://canva.link/kcp2tn2o91rofqc<br>
 
 
 <h2><코드 구현></h2><br><br>
+- 자세한 코드 사항은 파일 참조 부탁드립니다!<br>
 <img width="445" height="748" alt="KakaoTalk_20260610_172625704" src="https://github.com/user-attachments/assets/31096ab7-0a93-4043-8434-d840f2b0f511" /><br>
