@@ -20,7 +20,8 @@ https://canva.link/kcp2tn2o91rofqc<br>
   <li>플레이어 및 팀 점수 관리</li>
   <li>경기 진행 상태를 출력하는 기능 제공</li>
 </ol><br>
-<h3><테니스룰></h3><br>
+  
+<h3><테니스룰></h3>
 <ul>
   <li>남자 5세트</li>
   <li>여자 3세트</li>
