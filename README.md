@@ -41,19 +41,19 @@ https://canva.link/kcp2tn2o91rofqc<br>
 
   
 <img width="381" height="314" alt="최초실행" src="https://github.com/user-attachments/assets/6ce2a7f8-25c5-4242-9aaa-badab71da3fb" /><br>
-<h4>최초실행</h4><br>
+<h4><최초실행></최초실행></h4><br>
 
 <img width="313" height="148" alt="어드벤티치가 나온경우" src="https://github.com/user-attachments/assets/a9067f82-5fa6-497b-9086-5437d7580f2d" />
 <img width="314" height="147" alt="듀스가 나온경우" src="https://github.com/user-attachments/assets/f828f0ec-edf3-4e58-9b9d-253c44ec002f" />
-<h4>게임결과 실행시 어드벤티치 or 듀스가 나온경우</h4><br>
+<h4><게임결과 실행시 어드벤티치 or 듀스가 나온경우></h4><br>
 
 
 <img width="362" height="589" alt="타이브레이크" src="https://github.com/user-attachments/assets/0d89f1d1-0e7a-4272-b1e3-c36e3bea1285" />
-<h4>타이브레이크 발생한 경우</h4><br>
+<h4><타이브레이크 발생한 경우></h4><br>
 
 
 <img width="325" height="152" alt="최종결과" src="https://github.com/user-attachments/assets/dfae7d47-8ff3-4fb8-b04e-8a88f1ce960e" />
-<h4>최종결과 승리자 발표</h4><br>
+<h4><최종결과 승리자 발표></h4><br>
 
 
 - 자세한 코드 사항은 파일 참조 부탁드립니다!<br>
