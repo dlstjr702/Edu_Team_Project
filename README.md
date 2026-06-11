@@ -28,7 +28,7 @@ https://canva.link/kcp2tn2o91rofqc<br>
 
 
 <h2><순서도></h2><br><br>
-<img width="905" height="1738" alt="KakaoTalk_20260610_165950748" src="https://github.com/user-attachments/assets/efe1725c-8b60-4321-abc6-44b51e0ed00e" /><br>
+<img width="859" height="1831" alt="순서도" src="https://github.com/user-attachments/assets/a2524482-a100-4c16-9d06-c782d9a8bd70" /><br>
 
 
 <h2><클래스다이어그램></h2><br><br>
