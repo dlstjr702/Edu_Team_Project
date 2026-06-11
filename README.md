@@ -13,7 +13,7 @@
 https://canva.link/kcp2tn2o91rofqc<br>
 
 
-<h2 style="color:blue;"><요구분석사항></h2>
+<h2><요구분석사항></h2>
 <ol>
   <li>테니스 점수 계산 로직(포인트, 게임, 세트, 매치) 구현<br></li>
   <li>듀스 및 어드밴티지 시스템 적용</li>
@@ -27,13 +27,13 @@ https://canva.link/kcp2tn2o91rofqc<br>
 듀스인 경우는 두번더 포인트를 얻으면 승리<br>
 </ol>
 
-<h2  style="color:blue;"><순서도></h2><br><br>
+<h2><순서도></h2><br><br>
 <img width="2184" height="8192" alt="KakaoTalk_20260611_165448519_01" src="https://github.com/user-attachments/assets/0a2a1264-62ad-4338-af85-384832facef2" /><br>
 
 
-<h2  style="color:blue;"><클래스다이어그램></h2><br><br>
+<h2 ><클래스다이어그램></h2><br><br>
 <img width="6006" height="5155" alt="Tennis Game Scoring Model-2026-06-11-061814" src="https://github.com/user-attachments/assets/f9fdbe08-62e4-44a5-995e-07f7f85c37d0" /><br>
 
 
-<h2  style="color:blue;"><코드 구현></h2><br><br>
+<h2 ><코드 구현></h2><br><br>
 - 자세한 코드 사항은 파일 참조 부탁드립니다!<br>
