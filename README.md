@@ -32,7 +32,7 @@ https://canva.link/kcp2tn2o91rofqc<br>
 
 
 <h2><클래스다이어그램></h2><br><br>
-<img width="2188" height="4315" alt="Tennis Game Scoring Model-2026-06-10-121435" src="https://github.com/user-attachments/assets/6fd4d70b-a1d8-4090-b40d-a447cf8cb86d" /><br>
+<img width="6006" height="5155" alt="Tennis Game Scoring Model-2026-06-11-061814" src="https://github.com/user-attachments/assets/f9fdbe08-62e4-44a5-995e-07f7f85c37d0" /><br>
 
 
 <h2><코드 구현></h2><br><br>
