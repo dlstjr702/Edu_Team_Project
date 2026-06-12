@@ -50,17 +50,17 @@ public class Main {
             System.out.println(team1.getTeamName());  // Player 이름 대신 Team 이름 표시
             System.out.println("Team1 세트승: " + t1.getScoreBoard().getPlayer1SetScore());
             System.out.println("Team1 게임: " + t1.getScoreBoard().getPlayer1GameScore());
-            if (t1.getScoreBoard().isTieBreak()) System.out.println(t1.getScoreBoard().getPlayer1TieBreakPoint());
+            if (t1.getScoreBoard().isTieBreak()) System.out.println("타이브레이크 스코어 :" + t1.getScoreBoard().getPlayer1TieBreakPoint());
 
-            System.out.println();
+			System.out.println();
 
-            System.out.println(team2.getTeamName());  // Player 이름 대신 Team 이름 표시
-            System.out.println("Team2 세트승: " + t1.getScoreBoard().getPlayer2SetScore());
-            System.out.println("Team2 게임: " + t1.getScoreBoard().getPlayer2GameScore());
-            if (t1.getScoreBoard().isTieBreak()) System.out.println(t1.getScoreBoard().getPlayer2TieBreakPoint());
+			System.out.println(team2.getTeamName());  // Player 이름 대신 Team 이름 표시
+			System.out.println("Team2 세트승: " + t1.getScoreBoard().getPlayer2SetScore());
+			System.out.println("Team2 게임: " + t1.getScoreBoard().getPlayer2GameScore());
+			if (t1.getScoreBoard().isTieBreak()) System.out.println("타이브레이크 스코어 :" + t1.getScoreBoard().getPlayer2TieBreakPoint());
 
-            if (!t1.getScoreBoard().isTieBreak()) System.out.println(t1.dispScoreBoard());
-            System.out.println("=".repeat(50));
+			if (!t1.getScoreBoard().isTieBreak()) System.out.println(t1.dispScoreBoard());
+			System.out.println("=".repeat(50));
         }
     }
 
